@@ -1,0 +1,7 @@
+## Interface: 90200
+## Title: |cFFFF349A<Sound & Image Pack>|r |cFFFF9A34by Zildj|r
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Soundpaths.lua 
